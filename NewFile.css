@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+.MainP{
+border: 1px solid black;
+padding:20px;
+width:500px;
+background:#d3d3d3;
+margin-left:200px;
+border-radius:20px;
+}
+.InsertP{
+	border: 1px solid black;
+padding:20px;
+width:250px;
+background:#d3d3d3;
+margin-left:300px;
+border-radius:20px;
+}
